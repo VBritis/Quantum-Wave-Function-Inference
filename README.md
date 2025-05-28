@@ -4,7 +4,8 @@ This project demonstrates an innovative approach to simulating and visualizing q
 
 Furthermore, the project includes the architecture of a Variational Autoencoder (VAE), opening doors for future explorations in the generation and compression of quantum wave function representations.
 
-###Key Features
+### Key Features
+---
 Potential Well Simulations: Implementation of simulations for:
 
 Infinite Potential Well: A fundamental model for understanding quantum confinement and energy quantization.
