@@ -27,6 +27,7 @@ Generating new wave functions or quantum states.
 Dimensionality reduction for quantum data.
 
 ### Technologies Used
+---
 Python: Primary programming language.
 
 PyTorch: Deep Learning framework for building and training neural networks.
@@ -60,6 +61,7 @@ Or, if you are using a Jupyter Notebook, execute the cells sequentially.
 GPU Note: The code is configured to use GPU (CUDA) if available; otherwise, it will use the CPU. Monitor GPU usage (e.g., nvidia-smi in the terminal) to check for acceleration.
 
 ### Expected Results
+---
 Upon running the project, you will be able to observe:
 
 Probability Density Plots: Histograms of Monte Carlo samples that align with the probability density learned by the neural network.
@@ -71,6 +73,7 @@ Tunneling Visualization: For the finite potential well, the plots will clearly d
 Rejection Sampling (if implemented): A plot visualizing the accepted and rejected points during the sampling process.
 
 ### Key Concepts
+---
 Wave Function (Ψ(x)): The mathematical description of a particle's quantum state.
 
 Probability Density (∣Ψ(x)∣ 
@@ -92,6 +95,7 @@ Neural Networks: Used as universal function approximators to represent wave func
 Variational Autoencoder (VAE): A neural network architecture capable of learning latent data representations and generating new samples.
 
 ### Next Steps and Future Extensions
+---
 This project provides a solid foundation for future explorations:
 
 Excited States: Modify the model to find and visualize higher energy states (excited states).
