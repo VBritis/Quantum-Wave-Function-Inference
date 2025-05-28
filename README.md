@@ -37,6 +37,7 @@ NumPy: For numerical operations and array manipulation.
 Matplotlib: For visualization and plotting results.
 
 ### How to Use
+---
 Prerequisites
 Ensure you have Python installed (version 3.x recommended).
 Install the necessary libraries via pip:
