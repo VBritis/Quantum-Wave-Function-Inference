@@ -46,8 +46,8 @@ The main code for VMC simulations and the VAE definition are contained in Python
 
 Clone the repository (if applicable):
 
-git clone <YOUR_REPOSITORY_URL>
-cd <your_repository_name>
+git clone https://github.com/VBritis/Quantum-Wave-Function-Inference.git
+cd Quantum-Wave-Function-Inference
 
 Run the simulation script:
 The main script (main.py or the name of your Python file containing the run_simulation and run_simulation_finite_well functions) contains the logic to train the models and generate the plots.
